@@ -1,0 +1,8 @@
+.block__boolBar {
+    padding: 20px;
+}
+
+.block__boolBar .block__boolBar_element_addItem {
+    margin-left: 10px;
+
+}

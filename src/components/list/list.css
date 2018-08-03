@@ -1,0 +1,9 @@
+.block__names_ist {
+
+}
+
+.block__names_ist ul li {
+    padding: 10px;
+    background: grey;
+    border-bottom: 1px solid;
+}

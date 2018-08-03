@@ -1,0 +1,10 @@
+.login_block {
+    background: lightblue;
+    text-align: center;
+}
+
+.login_block header {
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+}
